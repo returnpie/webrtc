@@ -1,0 +1,2 @@
+import RTCPeerConnectionAudioOnlyContainer from './RTCPeerConnectionAudioOnlyContainer';
+export default RTCPeerConnectionAudioOnlyContainer;
